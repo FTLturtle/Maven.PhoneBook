@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.zipcodewilmington.phonebook</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">com.zipcodewilmington.phonebook.PhoneBookTest</node>
+    <node x="407.0" y="0.0">com.zipcodewilmington.phonebook.PhoneBook</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="383.0" y="273.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+    <Category>Constructors</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
